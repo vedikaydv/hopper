@@ -1,0 +1,5 @@
+LAB 6 LOGBOOK - <vedika yadav> - <your roll no>
+SETUP: my working directory is right
+T1 prediction: I think ls / will show about ??? items
+T1: /bin holds ???
+T1: /bin holds ???

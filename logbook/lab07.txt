@@ -1,0 +1,3 @@
+LAB 7 LOGBOOK - <vedika yadav> - <0785>
+SETUP: clang version ??? python3 version ???
+T1: running hello.py created ??? new files
